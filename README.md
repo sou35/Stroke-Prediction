@@ -1,8 +1,8 @@
 # Stroke-Prediction
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
 This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
-Dataset can be downloaded from the Kaggle https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
-
+Dataset can be downloaded from the [Kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
+![This is an image](https://storage.googleapis.com/kaggle-datasets-images/1120859/1882037/04da2fb7763e553bdf251d5adf6f88d9/data-original.jpg?t=2021-01-26-19-57-05)
 Attribute Information
 1) id: unique identifier
 2) gender: "Male", "Female" or "Other"
@@ -18,10 +18,14 @@ Attribute Information
 12) stroke: 1 if the patient had a stroke or 0 if not
 
 Run app.py using below command to start Flask API
+'''
 python app.py
+
+'''
 By default, flask will run
 
 Navigate to URL http://127.0.0.1:7384/
+
 You should be able to view the homepage as below : alt text
 
 Enter valid numerical values in all  input boxes and hit Submit.

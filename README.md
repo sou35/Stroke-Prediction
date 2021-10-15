@@ -31,4 +31,4 @@ You should be able to view the homepage as below : alt text
 
 Enter valid numerical values in all  input boxes and hit Submit.
 
-If everything goes well, you should be able to see the predcited the patient had a stroke not on the HTML page! 
+If everything goes well, you should be able to see the predcited the patient had a stroke or not on the HTML page! 

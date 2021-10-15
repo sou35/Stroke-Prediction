@@ -16,3 +16,14 @@ Attribute Information
 10) bmi: body mass index
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) stroke: 1 if the patient had a stroke or 0 if not
+
+Run app.py using below command to start Flask API
+python app.py
+By default, flask will run
+
+Navigate to URL http://127.0.0.1:7384/
+You should be able to view the homepage as below : alt text
+
+Enter valid numerical values in all  input boxes and hit Submit.
+
+If everything goes well, you should be able to see the predcited the patient had a stroke not on the HTML page! 

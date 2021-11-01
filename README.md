@@ -5,6 +5,8 @@ Dataset can be downloaded from the [Kaggle](https://www.kaggle.com/fedesoriano/s
 
 ![stroke prediction](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Ffedesoriano%2Fstroke-prediction-dataset%2Fcode&psig=AOvVaw32ovYkfQMouWZp1ZYFg86B&ust=1634392060194000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCND9_oTHzPMCFQAAAAAdAAAAABAD)
 
+![Alt Text](https://c.tenor.com/XX2n35R7YCoAAAAC/aneurysm-hhhhomeboyyyy.gif)
+
 Attribute Information
 1) id: unique identifier
 2) gender: "Male", "Female" or "Other"
